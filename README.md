@@ -1,4 +1,4 @@
-# CMSC389KFinalFoodReivew
+# Terp Food Reviewer
 Egor Reznikov, Sean Chapman, Deep Patel
 
 ---
@@ -7,7 +7,7 @@ Names: Egor Reznikov, Sean Chapman, Deep Patel
 
 Date: May 10th, 2019
 
-Project Topic: Local Restaurant Reviews
+Local Restaurant Reviews
 
 URL: [Link to website] (http://terpfoodreview.herokuapp.com)
 
